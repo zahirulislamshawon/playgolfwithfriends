@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+}
+
+.heroSection{
+    background-image:url(../images/image1.svg);
+    background-repeat: no-repeat;
+    max-width: 1728px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.hero.container{
+    max-width: 1250px;
+    padding: 300px 0 100px 0px;
+    margin: auto;
+}
+
+.foresome img{
+
+}
+
+.heroInfo{
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: center;
+
+align-items: center;
+}
+
+.heroInfo h2{
+
+font-weight: 500;
+
+font-size: 65px;
+
+line-height: 82px;
+
+display: flex;
+
+align-items: center;
+
+text-align: center;
+
+color: #FAFEFB;
+}
+
+.heroInfo p{
+    font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+
+text-align: center;
+
+
+color: #FFFFFF;
+
+}
+.appStore{
+    display: flex;
+    flex-wrap: wrap;
+}
+.text{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 290px;
+}
+
+.introductionSection{
+    margin-top: 100px;
+}
+
+.introduction.container{
+
+}
+
+.introductionSection h4{
+    font-weight: 900;
+font-size: 35px;
+line-height: 44px;
+
+color: #031F0F;
+
+}
+
+.introductionSection p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #3D3D3D;
+}
+
+.introductionSection h3{
+    font-weight: 900;
+font-size: 50px;
+line-height: 63px;
+text-align: center;
+color: #031F0F;
+
+}
+
+.introductionSection span{
+    font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+
+
+text-align: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #176B3A;
+}
+
+.btn{
+    background: #176B3A;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.inroductionImage1{
+    padding-left: 150px;
+}
+.introductionText1{
+    text-align: start;
+    padding-right: 100px;
+}
+
+.introductionText1Btn{text-align: start;margin-top: 22px;}
+
+.inroductionImage2{
+    padding-right: 150px;
+}
+.introductionText2{
+    text-align: start;
+    padding-left: 200px;
+}
+
+.introductionText2Btn{text-align: start;margin-top: 22px;padding-left: 196px;}
+
+.vacation{
+    background: #176B3A;
+    padding-top: 120px;
+}
+
+
+
+.vacationText{
+
+text-align: justify;
+
+padding: 0 25px 0 100px;
+}
+
+.vacationText h3{
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 42px;
+    color: #FFFFFF;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.vacationText p{
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+  
+}
+.vacationImage{
+    padding: 0;
+
+}
+
+
+
+.offerSection{
+
+}
+
+.offerText h4{
+    font-weight: 500;
+    font-size: 49px;
+    line-height: 60px;
+    color: #3D3D3D;
+    margin-bottom: 12px;
+}
+
+.offerText p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #3D3D3D;
+    text-align: justify;
+    padding-right: 25px;
+}
+
+
+.offerImage {
+    padding: 70px 50px 70px 150px;
+}
+
+
+
+.signupSection{
+    background-image:url(../images/image5.svg);
+    background-repeat: no-repeat;
+    max-width: 1728px;
+    margin: auto;
+    min-height: 42vh;
+}
+
+.signup.container{
+    max-width: 1250px;
+    padding: 300px 0 100px 0px;
+    margin: auto;
+
+}
+
+.signupSection h2{
+    font-weight: 600;
+font-size: 50px;
+line-height: 63px;
+
+color: #FFFFFF;
+
+}
+
+.signupSection p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding-right: 550px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.copywriteSection{
+
+    max-width: 1728px;
+    background: #176B3A;
+    margin: auto;
+
+}
+
+.copywriteSection P{
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+
+text-align: center;
+
+
+color: #FFFFFF;
+
+}
+
+.searchBox{
+    max-width: 500px;
+}
